@@ -1,0 +1,657 @@
+
+/*css3 xpertcube 2015*/
+
+/* (320x480) iPhone (Original, 3G, 3GS) */
+@media only screen and (min-width: 320px) and (max-width: 980px) {
+/* insert styles here */
+.about_banner_cntnt h1 {
+    font-size: 24px;
+    line-height: 30px;
+	padding: 25% 0 10% 0;
+}
+.about_banner_cntnt h1 span {
+    font-size: 29px;
+}
+.about_inner_right {
+    width: 100%;
+}
+.about_inner_left {
+    width: 100%;
+} 
+.about_inner_left h1 {
+    font-size: 40px;
+    line-height: 40px;
+}
+.about_inner_left h1 span {
+    font-size: 50px;
+    line-height: 60px;
+}
+.about_inner_left p {
+    text-align: justify;
+}
+.about_inner_inn_left {
+    width: 100%;
+	text-align: left;
+}
+.about_service_inner_top {
+    padding-bottom: 7%;
+}
+.overlay ul li a {
+    font-size: 22px!important;
+}
+.service_line_left {
+    width: 100%;
+}
+.service_line_right {
+    width: 90%;
+}
+.details_inn_left {
+    width: 100%;
+}
+.service_line{
+	height: auto;
+
+}
+.service_line_top h1 {
+    font-size: 23px;
+}
+.details_inn_right {
+    width: 100%;
+	padding: 5% 0;
+}
+.details_inn_right h1 {
+    font-size: 46px;
+
+}
+.service_list_inner ul li {
+    width: 100%;
+    margin: 2.5% 0;
+}
+.about_service_inner_top h1 {
+    line-height: 40px;
+}
+.about_inner_inn_right {
+    width: 100%;
+}
+.slider_text {
+    width: 90%;
+    left: 5%;
+}
+.about_inner_inn_left p {
+text-align: justify;
+}
+.about_inner_inn_right p {
+	text-align: justify;
+	}
+	.menu_right_left{
+     display: none;
+	}
+	.menu_right_left ul li p span {
+    display: none;
+}
+
+	.menu_right_left ul li {
+    margin: 0 10px 0 0;
+	}
+	
+	.slider-counter {
+    bottom: 5%;
+	}
+	.main_slider_right_bottom_left_inner p {
+    font-size: 15px;
+    line-height: 27px;
+    text-align: justify;
+	}
+	.client_says_top h1 {
+    font-size: 60px;
+	}
+	.main_slider_right_top_inn h2 {
+    font-size: 20px;
+    line-height: 23px;
+	}
+	.footer_inner_left {
+		width: 100%;
+	}
+	.footer_inner_right {
+		width: 100%;
+	}
+	.text-input {
+	width: 100%;	
+	}
+	.footer_inner_left_top h1 {
+		font-size:34px;
+	} 
+	.footer_inner_left_down h1 {
+		font-size:34px;
+	}
+	.footer_inner_right_inner h1 {
+		font-size:34px;
+	}
+	.effect a {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+	}
+	.footer_inner_right_inner_list ul li {
+    margin: 0 15px;
+	}
+	.footer_inner_right_inner_list {
+		left:0;
+	}
+	.footer_down_left {
+    width: 100%;
+	}        
+
+	.footer_down_left p {
+		font-size:13px;
+		text-align:center;
+		font-weight:600;
+	}
+	.footer_down_right p {
+		font-size: 16px;
+		font-weight: 600;
+	}
+	.footer_inner_left_down p {
+		font-size: 15px;
+	}
+	.text_box_dsn {
+		width: 80%;
+	}
+	.botton_dsn {
+		width: 13.5%;
+	}
+	.footer_down_right p{
+		font-size:16px;
+		text-align:center;
+		font-weight:100;
+	}
+	.logo_left {
+    width: 25%;
+	}
+
+  .footer_down_right {
+    width: 100%;
+    }
+	.footer_down {
+    width: 100%;
+	}
+	.index_about_inner_left {
+    width: 100%;
+    padding: 0;
+		position: relative;
+		
+}
+	.index_about_inner_left_bottom {
+    width: 100%;
+	}
+	.index_about_inner_left_top h2 {
+    font-size: 14px;
+	}
+	.index_about_inner_right {
+    width: 100%;
+	}
+	.index_about_inner_left_top {
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+	}
+	.index_about_inner_left_bottom p {
+    font-size: 15px;
+    line-height: 30px;
+    text-align: left;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 0;
+}
+	.index_abt_btm {
+    position: relative;
+    width: 90%;
+		margin: 10% 0 5%;
+	}
+	.index_about_inner_left_left {
+    width: 100%;
+}
+	.index_course_left {
+    width: 100%!important;
+	}
+	.index_course_right {
+    width: 100%;
+	}
+.slider_text {
+    bottom: calc(45% - 70px)!important;
+}
+.slider_text p {
+    font-size: 20px!important;
+    line-height:30px!important;
+	font-weight: 900;
+	}
+	.mouse_full {
+		left: 32%;
+	}
+	.slider_bottom_inner_left {
+		width: 100%;
+	}
+	.slider_bottom_inner_right {
+		position: relative;
+		width: 90%;
+		right:0;
+		padding: 5%;
+	}
+	.slider_bottom_inner_left h1 span {
+		font-size: 36px;
+		line-height: 50px;
+	}
+	.main_slider_right_top_inn h2 span {
+		font-size: 36px;
+		line-height: 50px;
+	}
+	.slider_bottom_inner_left p {
+		text-align: justify;
+	}
+	.slider_bottom_inner_right_inner p {
+		text-align: justify;
+	}
+	.main_slider_right_top_inn p {
+		text-align: justify;
+	}
+	.index_course_right_top_left {
+		width: 90%;
+	}
+	.index_course_right_top_right {
+		width: 90%;
+	}
+	.index_course_right_btm_left {
+		width: 90%;
+	}
+	.index_course_right_btm_right {
+		width: 90%;
+	}
+	.main_slider_right_top_inn3 h1 span {
+		font-size: 32px;
+		line-height: 60px;
+	}
+	.main_slider_right_top_inn h1 {
+		font-size: 36px;
+		line-height: 50px;
+	}
+	.slider_bottom_inner_left h1 {
+		font-size: 50px;
+		line-height: 60px;
+	}
+.slider_text h1 {
+    font-size: 20px!important;
+    line-height:30px!important;
+	font-weight: 900;
+}
+.slider_text h2 {
+    font-size: 64px!important;
+    line-height:64px!important;
+}
+.contact_left {
+    width: 90%;
+	float:none;
+	padding:15% 5% ;
+	}
+.contact_right {
+	position:relative;
+    width:100%;
+	float:none;
+	    padding: 10% 0;
+}
+.contact_content_main {
+    left:0 !important;
+    margin: 0% auto;
+	width:100%;
+}
+.contact_right_content {
+	padding:0;
+	margin: 0 auto;
+	    width: 90%;
+}
+.left_input {
+    width:100%;
+    float: none;
+}
+.right_input {
+    width: 100%;
+    float: none;
+}
+.cntct_input_left_right {
+    margin: 0 auto 0 !important;
+}
+.contact_left h2 {
+	    font-size: 21px  !important;;
+}
+.main_slider_right_top_inn_btm_txt h1{
+	font-size: 15px;
+}
+.main_slider_right_top_inn_btm_txt h1 span {
+    font-size: 21px;
+}
+.botton_dsn_img img {
+    width: 96%;
+	height:38px ;
+}
+.index_course {
+    
+    width: 100%;
+    
+}
+
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+/* insert styles here */
+
+
+.menu_right_left {
+    padding: 20px 0;
+}
+.social ul li a {
+    font-size: 16px;
+}
+.social ul li {
+    margin: 0 10px;
+}
+.slider_text {
+    bottom: calc(42% - 70px);
+}
+.overlay ul li {
+    padding-bottom: 25% !important;
+}
+
+}
+
+/* (320x480) Smartphone, Portrait */
+@media only screen and (width: 320px) and (orientation: portrait) {
+/* insert styles here */
+	
+}
+
+/* (320x480) Smartphone, Landscape */
+@media only screen and (width: 480px) and (orientation: landscape) {
+
+}
+
+/* (480x800) Android */
+@media only screen and (min-width: 480px) and (max-width: 800px) {
+/* insert styles here */
+
+
+.menu_right_left {
+    padding: 5px 0;
+}
+.menu_right_left ul {
+    margin-right: 112px;
+}
+
+.mouse_full {
+    bottom: 2%;
+}
+}
+/* (640x960) iPhone 4 & 4S */
+@media only screen and (max-width:700px) {
+/* insert styles here */
+
+
+}
+@media only screen and (min-width: 375px) and (max-width: 990px) {
+/* insert styles here */
+}
+
+/* (720x1280) Galaxy Nexus, WXGA */
+@media only screen and (min-width: 720px) and (max-width: 1280px) {
+/* insert styles here */
+
+}
+
+/* (720x1280) Galaxy Nexus, Landscape */
+@media only screen and (min-width: 720px) and (max-width: 1280px) and (orientation: landscape) {
+/* insert styles here */
+
+}
+
+/* (1024x768) iPad 1 & 2, XGA */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+/* insert styles here */
+.slider_bottom_inner_left h1 span {
+    font-size: 36px;
+    line-height: 50px;
+}
+.slider_bottom_inner_right_inner h2 {
+    font-size: 30px;
+    line-height: 25px;
+}
+.slider_bottom_inner_right_inner h3 {
+    font-size: 13px;
+    line-height: 30px;
+}
+.main_slider_right_top_inn h1 {
+    font-size: 42px;
+    line-height: 70px;
+}
+.main_slider_right_top_inn2 h1 {
+    font-size: 18px;
+    line-height: 30px;
+
+}.main_slider_right_top_inn2 h2 {
+	padding-bottom: 4%;
+}
+.main_slider_right_top_inn2 h3 {
+    font-size: 20px;
+    line-height: 41px;
+	padding: 0;
+}
+.main_slider_right_top_inn_btm_txt h1 span {
+    font-size: 18px;
+}
+.main_slider_right_top_inn_btm_txt h1 {
+    font-size: 13px;
+    line-height: 13px;
+}
+.footer_down_left p {
+    font-size: 13px;
+}
+.footer_down_right p {
+    font-size: 13px;
+}
+.footer_down_right a {
+    font-size: 13px;
+}
+.footer_inner_right_inner h1 {
+    font-size: 60px;
+}
+.footer_inner_right_inner_list ul li {
+    margin: 0 27px;
+}
+.about_inner_left h1 {
+    font-size: 40px;
+    line-height: 30px;
+}
+.about_inner_left h1 span {
+    font-size: 59px;
+    line-height: 69px;
+}
+.service_line_right h1 {
+    font-size: 34px;
+}
+.contact_content_main {
+    width: 90%;
+}
+.contact_right_content h2 {
+    font-size: 24px;
+
+}
+.contact_right_location ul li p {
+    font-size: 14px;
+}
+
+.effect a {
+    width: 91px;
+    height: 91px;
+    
+}
+.botton_dsn_img img {
+    width: 100%;
+    height: 59px;
+}
+.main_slider_right_top_inn2 p {
+	padding: 0;
+}
+
+}
+/* (768x1024) iPad 1 & 2, Portrait */
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+/* insert styles here */
+
+}
+
+/* (1024x768) iPad 1 & 2, Landscape */
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+/* insert styles here */
+
+}
+
+/* (2048x1536) iPad 3 */
+@media only screen and (min-width: 1536px) and (max-width: 2048px) {
+/* insert styles here */
+
+}
+
+/* (1280x720) Galaxy Note 2, WXGA */
+@media only screen and (min-width: 768px) and (max-width: 1366px) {
+
+
+}
+
+/* (1366x768) WXGA Display */
+@media screen and (max-width: 1400px) {
+
+/* insert styles here */
+}
+
+/* (1280x1024) SXGA Display */
+@media screen and (max-width: 1280px)and (max-width:1399px) {
+/* insert styles here */
+.slider_text h1 {
+    font-size: 64px;
+    line-height: 64px;
+    padding-top: 0px;
+}
+.slider_text h2 {
+    font-size: 135px;
+    line-height: 135px;
+}
+	.index_abt_btm_inn_in h2 {
+    font-size: 24px;
+    line-height: 32px;
+	}
+	.index_about_inner_left_top h1 span {
+    font-size: 110px;
+    line-height: 110px;
+	}
+	.index_about_inner_left_bottom p {
+    font-size: 13px;
+    line-height: 20px;
+	}
+
+}
+/* (1440x900) WXGA+ Display */
+@media screen and (max-width: 1440px) {
+/* insert styles here */
+
+}
+
+@media only screen and (min-width:1400px) and (max-width:1599px) {
+/* insert styles here */
+.about_inner_left h1 span {
+    font-size: 80px;
+    line-height: 100px;
+}
+}
+/* (1680x1050) WSXGA+ Display */
+@media screen and (max-width: 1215px) {
+/* insert styles here */
+.main_slider_right_top_inn p{
+	padding: 6.5% 0;
+}
+}
+
+/* (1920x1080) Full HD Display */
+@media screen and (max-width: 1920px) {
+/* insert styles here */
+}
+@media screen and (max-width:2018px) {
+/* insert styles here */
+
+}
+
+/* (1600x900) HD+ Display */
+@media only screen and (min-width:1604px) and (max-width:1900px) {
+/* insert styles here */
+
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1270px) {
+/* insert styles here */
+
+.slider_text h1 {
+    font-size: 48px;
+    line-height: 48px;
+    padding-top: 0px;
+}
+.slider_text h2 {
+    font-size: 110px;
+    line-height: 120px;
+}
+.slider_text p {
+    font-size: 13px;
+    line-height: 25px;
+}
+
+.mouse-icon {
+    height: 30px;
+    width: 15px;
+	    bottom: 25px;
+}
+.mouse_full {
+    bottom: 2%;
+}
+	
+
+
+}
+@media only screen and (min-width: 600px) and (max-width: 1280px) {
+/* insert styles here */
+
+}
+
+@media only screen and (min-width:1801px) and (max-width:2000px) {
+/* insert styles here */
+
+}
+@media only screen and (min-width: 1601px) and (max-width: 1800px) {
+
+}
+@media only screen and (min-width:2001px) and (max-width:2200px) {
+/* insert styles here */
+
+}
+@media only screen and (min-width: 981px) {
+	
+
+
+}
+@media only screen and (min-width: 319px) and (max-width: 426px) {
+
+	.main_slider_right_top_inn3 h1 span{
+		font-size: 30px;
+	}
+
+	.send_btn {
+		bottom: -40px;
+		
+	}
+
+}
